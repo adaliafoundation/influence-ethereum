@@ -1,0 +1,9 @@
+node_modules
+.editorconfig
+.DS_Store
+*/.DS_Store
+.env
+.env.*
+data
+tmp
+.openzeppelin/unknown*

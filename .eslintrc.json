@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "class-methods-use-this": ["off"],
+    "comma-dangle": ["error", "never"],
+    "func-names": ["error", "never"],
+    "max-len": ["error", { "code": 120 }],
+    "object-curly-newline": ["off"]
+  },
+  "env": {
+    "es2020": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2022
+  }
+}
